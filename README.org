@@ -4,6 +4,6 @@ Common Lisp library to portably (un)define REPL toplevel commands.
 
 |---------+--------------------------------------------------------------|
 | source  | git:https://github.com/aartaka/trivial-toplevel-commands.git |
-| commit  | 4a6bf6d                                                      |
+| commit  | 7c555a6                                                      |
 | systems | trivial-toplevel-commands                                    |
 |---------+--------------------------------------------------------------|
